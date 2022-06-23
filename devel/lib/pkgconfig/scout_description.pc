@@ -1,0 +1,8 @@
+prefix=/home/rosmatch/catkin_ws_marco_fava/devel/.private/scout_description
+
+Name: scout_description
+Description: Description of scout_description
+Version: 0.4.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

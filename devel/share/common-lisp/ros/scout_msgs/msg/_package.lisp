@@ -1,0 +1,15 @@
+(cl:defpackage scout_msgs-msg
+  (:use )
+  (:export
+   "<SCOUTACTUATORSTATE>"
+   "SCOUTACTUATORSTATE"
+   "<SCOUTLIGHTCMD>"
+   "SCOUTLIGHTCMD"
+   "<SCOUTLIGHTSTATE>"
+   "SCOUTLIGHTSTATE"
+   "<SCOUTRCSTATE>"
+   "SCOUTRCSTATE"
+   "<SCOUTSTATUS>"
+   "SCOUTSTATUS"
+  ))
+

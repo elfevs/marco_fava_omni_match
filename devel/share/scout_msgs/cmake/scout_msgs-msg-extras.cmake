@@ -1,0 +1,2 @@
+set(scout_msgs_MESSAGE_FILES "/home/rosmatch/catkin_ws_marco_fava/src/scout_ros/scout_msgs/msg/ScoutActuatorState.msg;/home/rosmatch/catkin_ws_marco_fava/src/scout_ros/scout_msgs/msg/ScoutLightCmd.msg;/home/rosmatch/catkin_ws_marco_fava/src/scout_ros/scout_msgs/msg/ScoutLightState.msg;/home/rosmatch/catkin_ws_marco_fava/src/scout_ros/scout_msgs/msg/ScoutRCState.msg;/home/rosmatch/catkin_ws_marco_fava/src/scout_ros/scout_msgs/msg/ScoutStatus.msg")
+set(scout_msgs_SERVICE_FILES "")

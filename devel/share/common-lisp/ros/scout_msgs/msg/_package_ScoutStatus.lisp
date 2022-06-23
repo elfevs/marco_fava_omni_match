@@ -1,0 +1,24 @@
+(cl:in-package scout_msgs-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          LINEAR_VELOCITY-VAL
+          LINEAR_VELOCITY
+          ANGULAR_VELOCITY-VAL
+          ANGULAR_VELOCITY
+          VEHICLE_STATE-VAL
+          VEHICLE_STATE
+          CONTROL_MODE-VAL
+          CONTROL_MODE
+          ERROR_CODE-VAL
+          ERROR_CODE
+          BATTERY_VOLTAGE-VAL
+          BATTERY_VOLTAGE
+          ACTUATOR_STATES-VAL
+          ACTUATOR_STATES
+          LIGHT_CONTROL_ENABLED-VAL
+          LIGHT_CONTROL_ENABLED
+          FRONT_LIGHT_STATE-VAL
+          FRONT_LIGHT_STATE
+          REAR_LIGHT_STATE-VAL
+          REAR_LIGHT_STATE
+))

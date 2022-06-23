@@ -1,0 +1,8 @@
+prefix=/home/rosmatch/catkin_ws_marco_fava/devel/.private/scout_mini
+
+Name: scout_mini
+Description: Description of scout_mini
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
